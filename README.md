@@ -9,6 +9,7 @@ With these concerns in mind, we evaluate the effectiveness of policy interventio
 - Does policy change on opioid drugs reduce the opioid prescriptions?
 - Does policy change on opioid drugs reduce the mortality rate? 
 
+
 ## Research Design
 
 We estimate the effect of policy interventions on opioid prescriptions and drug overdose deaths using: 
@@ -36,6 +37,10 @@ National mortality data is provided from 2003 to 2015. In the data, seven catego
 
 Our analysis shows that Florida is effective in reducing opioid prescriptions and mitigating drug overdose deaths. Texas and Washington are successful in restricting the amount of the opioid prescriptions. However, the effects of policies on drug overdose deaths in Texas and Washington are ambiguous, since the trend for both states fluctuates  -- it generally decreases after the policy before it increases again. Therefore, we believe that a more rigorous analysis and longer time span are needed in order to extract more informative conclusions.
 
+## Links
+- [Technical report](https://github.com/JiamanBettyWu/estimating-impact-of-opioids-2020-team-blue/blob/master/40_docs/Report%20(Technical).pdf)
+- [Non-techinical report](https://github.com/JiamanBettyWu/estimating-impact-of-opioids-2020-team-blue/blob/master/40_docs/Non-statistical%20report.pdf)
+- [Presentation](https://docs.google.com/presentation/d/1pYsJhFtdmyIXsSIQ2SwOZX8Hm4n9bM_M5h_78aVni88/edit?usp=sharing)
 
 
 
